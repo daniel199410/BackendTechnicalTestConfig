@@ -1,0 +1,2 @@
+# BackendTechnicalTestConfig
+Configuration files for BackendTechnicalTest microservices
